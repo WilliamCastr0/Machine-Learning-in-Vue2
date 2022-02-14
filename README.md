@@ -1,4 +1,4 @@
-# tech_test
+# Machine Learning in Vue2 
 
 ## Project setup
 ```
